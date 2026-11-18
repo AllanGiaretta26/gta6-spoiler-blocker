@@ -3,6 +3,7 @@
 // @namespace    local.gta6-spoiler-blocker
 // @version      1.1.0
 // @description  Esconde cards, posts e vídeos que mencionam GTA 6 no YouTube, X/Twitter e Reddit.
+// @license      MIT
 // @match        *://*.youtube.com/*
 // @match        *://x.com/*
 // @match        *://*.x.com/*

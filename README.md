@@ -82,3 +82,7 @@ O script **não faz nenhuma requisição de rede**, não tem dependências exter
 - Nos Shorts, cada vídeo limpo leva cerca de 0,3 s para aparecer depois que você rola.
 - No X, a timeline virtual pode deixar um espaço vazio onde havia um post escondido.
 - Variações com acento ("Lúcia") ou abreviações novas que não estejam na lista passam.
+
+## Licença
+
+[MIT](LICENSE). Use, modifique e redistribua à vontade, mantendo o aviso de copyright.
